@@ -4,7 +4,7 @@
 #
 # Example: python3 find_lowest_number.py numbers.txt lowest_number.txt
 #
-# If python is setup to run as "python" instead of "python3" on the machine, 
+# If python is setup to run as "python" instead of "python3" on the machine,
 # then we should use "python" instead of "python3" in the above.
 #
 # The input file should contain one number per line. The output file will 
